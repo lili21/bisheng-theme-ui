@@ -43,7 +43,7 @@ How To Write Doc
 
 - 组件目录下创建`index.md`文件，基本结构如下
 
-  ![index.md](https://user-images.githubusercontent.com/4456380/34150006-06949c4a-e4e2-11e7-90d0-567a312e99f2.png)
+  ![carbon 2](https://user-images.githubusercontent.com/4456380/34717675-d3532b10-f56e-11e7-961c-33de960cb365.png)
 
   - **title** - 组件名，左侧导航名
 
@@ -56,7 +56,8 @@ How To Write Doc
 
   如果要编写组件**demo**，只需要在组件目录下创建**demo**目录，并将相应的文档放置在改目录下即可，基本结构如下
 
-  ![demo.md](https://user-images.githubusercontent.com/4456380/34149986-f52247be-e4e1-11e7-818c-02e029dd33c6.png)
+  ![carbon 3](https://user-images.githubusercontent.com/4456380/34717723-f5ab8d4c-f56e-11e7-9c91-64a9dca14604.png)
+
 
   - **title** - demo名称
 
