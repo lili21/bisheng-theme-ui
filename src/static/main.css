@@ -1,0 +1,29 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+body {
+    background: #f3f3f3;
+    font-family: 'Raleway', 'Hiragino Sans GB', sans-serif;
+}
+
+img {
+  width: 100%;
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+    border-left: 1px solid #aaa;
+    box-shadow: 0 0 6px rgba(0,0,0,0.5);
+}
+::-webkit-scrollbar-track {
+    background: #efefef;
+}
+::-webkit-scrollbar-thumb {
+    background: #666;
+}
+::-webkit-scrollbar-thumb:window-inactive {
+    background: #dedede;
+}

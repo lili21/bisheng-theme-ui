@@ -1,0 +1,24 @@
+{
+  "name": "bisheng-theme-ui",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "files": [
+    "lib"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "build": "rm -rf lib && babel src -d lib && cp -R src/static/* lib/static",
+    "prepublish": "npm run build"
+  },
+  "dependencies": {
+    "bisheng-plugin-antd": "^0.16.3",
+    "bisheng-plugin-description": "^0.1.4",
+    "bisheng-plugin-react": "^0.6.3"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1"
+  }
+}
