@@ -28,7 +28,7 @@ export default function Layout (props) {
       </div>
       <footer>
         <div className="footer-inner">
-          with ❤ by lili21
+          with ❤ by li.li
         </div>
       </footer>
     </div>
