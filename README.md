@@ -1,6 +1,6 @@
 bisheng-theme-ui
 ================
-> react ui library theme for [bisheng](https://github.com/benjycui/bisheng)
+> react ui library theme for [bisheng](https://github.com/benjycui/bisheng). Almost Copied from [react-amap](https://github.com/ElemeFE/react-amap)
 
 Usage
 -----
@@ -16,3 +16,4 @@ $ yarn add bisheng-theme-ui --dev
   ....
 }
 ```
+
