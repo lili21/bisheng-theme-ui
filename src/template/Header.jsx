@@ -10,7 +10,7 @@ export default function Header (props) {
   return (
     <header id="header">
       <div className="header-inner">
-        <h2>lls-ui</h2>
+        <h2>Bisheng-Theme-UI</h2>
         <ul>
           <li><Link to="/"><span>首页</span></Link></li>
           <li><Link className={path.indexOf('articles') === -1 ? '' : 'current'} to="/articles/start">

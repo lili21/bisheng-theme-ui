@@ -1,6 +1,6 @@
 bisheng-theme-ui
 ================
-> ui theme for [bisheng](https://github.com/benjycui/bisheng)
+> react ui library theme for [bisheng](https://github.com/benjycui/bisheng)
 
 Usage
 -----

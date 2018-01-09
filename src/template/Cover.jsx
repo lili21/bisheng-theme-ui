@@ -6,7 +6,7 @@ export default function Cover () {
     <div className="cover-wrapper">
       <div>
         <Link className="start" to="/articles/start" >快速开始</Link>
-        <a href="https://git.llsapp.com/frontend/lls-ui">GitLab</a>
+        <a href="https://github.com/lili21/bisheng-theme-ui">GitHub</a>
       </div>
     </div>
   )

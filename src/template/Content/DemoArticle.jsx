@@ -1,7 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 import DemoItem from './DemoItem'
-import IconList from './IconList'
 
 export default class DemoArticle extends React.Component {
   constructor () {
@@ -63,10 +62,6 @@ export default class DemoArticle extends React.Component {
         <div className="demo-wrapper">
           {demoComponent}
         </div>
-        { props.routeParams.doc === 'Icon'
-          ? <IconList />
-          : null
-        }
         <div className="page-api">
           {props.utils.toReactComponent(pageAPI)}
         </div>
